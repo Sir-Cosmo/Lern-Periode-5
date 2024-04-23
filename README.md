@@ -10,9 +10,9 @@ Was wäre ein geeignetes Projekt für diese LP5?
 Heute habe ich... (50-100 Wörter)
 
 ## 30.4.2024
-[ ] Erstes Arbeitspaket
-[ ] ...
-[ ] Viertes AP
+[] Erstes Arbeitspaket
+[] ...
+[] Viertes AP
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
