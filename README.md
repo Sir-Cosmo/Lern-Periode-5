@@ -16,8 +16,8 @@ Heute habe ich an meiner Dokumentation für Modul 106 gearbeitet und dazu habe i
 
 ## 30.4.2024
 - [ ] Basis Website Aufbauen (Weisse Seite)
-- [ ] Überkatogrien einfügen
-- [ ] Überkateogrienen Klickbar machen
+- [ ] Überkategorien einfügen
+- [ ] Überkategorien Klickbar machen
 - [ ] Erstes Flugzeug einfügen
 
 ✍️ Heute habe ich... (50-100 Wörter)
