@@ -3,6 +3,7 @@
 
 ## Grob-Planung
 Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
+
 Meine Noten sehen Aktuell sehr gut aus und ich habe in keinen Module unter einer 5,5
 
 Was hatten Sie sich am Ende von LP4 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
