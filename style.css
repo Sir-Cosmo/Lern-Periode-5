@@ -1,0 +1,81 @@
+img {
+    width: 400px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-left: 14.5px;
+    margin-right: auto;
+  }
+
+  .Shorthaul img {
+    width: 400px;
+    height: 280px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: auto;
+  }
+
+  .PlanesorCoasters {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+.PlanesorCoasters a {
+    font-size: 50px; 
+    text-decoration: none;
+    color: #ffffff; 
+    margin-bottom: 20px; 
+    text-align: center;
+}
+
+  .PlaneNames {
+    display: flex;
+
+  }
+
+  .PlaneName {
+    margin-right: 165px;
+    margin-left: 125px;
+    font-size: 30px;
+  }
+
+  .planes-page {
+    background-image: url('images/AIRBUS_Blue.png'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+  }
+  .PlaneOptions {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.PlaneOptions a {
+    font-size: 55px; 
+    text-decoration: none;
+    color: #000000; 
+    margin-bottom: 200px; 
+    margin-top: 200px;
+}
+.MainPage {
+    background-image: url('/images/PlanesandCoaster.jpg'); 
+    background-size: cover; 
+    
+    background-repeat: no-repeat; 
+}
+.CoasterNames {
+  display: flex;
+
+}
+
+.CoasterName {
+  margin-right: 165px;
+  margin-left: 125px;
+  font-size: 30px;
+}
