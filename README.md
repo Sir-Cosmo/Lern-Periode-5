@@ -26,10 +26,15 @@ Heute habe ich an meiner Dokumentation für Modul 106 gearbeitet und dazu habe i
 Heute habe ich sehr viel über HTML gelernt. Ich hatte riesen Spass beim Programmieren mit HTML und habe es geschafft, meine erste Website zu machen. Ich freue mich extrem, die Webseite zu erweitern. Ich freue mich, den Rest meiner Website zu gestalten und weiterzuentwickeln. Ich habs das Gefühl ich mit HTML noch sehr viel Spas haben werde. (60 Worte)
 
 ## 07.05.2024
-- [ ] Erste Achterbahn überkategorien einfügen
-- [ ] Erste Flugzeug Unterseite Einfügen
-- [ ] Achterbahn unterseite erweitern
+- [X] Erste Achterbahn überkategorien einfügen
+- [X] Erste Flugzeug Unterseite Einfügen
+- [X] Achterbahn unterseite erweitern
 - [ ] Zweite Flugzeug Unterseite Einfügen
 
+Heute habe ich viel Fortschritt an meiner Website gemacht. Ich hatte sehr viel Spass dabei, mehr Informationen und Unterseiten einzufügen. Ich möchte mich jetzt aber in der Zukunft auf das Design konzentrieren und Animationen einfügen, damit die Website auch anschaulich ist. Ich freue mich auch sehr auf den OPL Unterricht, da ich mich da am besten konzentrieren kann. (58 Wörter)
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+## 14.05.2024
+- [ ] Animation für die Haubtseite
+- [ ] Video auf der Silverstar seite einfügen
+- [ ] Bluefire einfügen
+- [ ] Zweite Flugzeug Unterseite Einfügen
