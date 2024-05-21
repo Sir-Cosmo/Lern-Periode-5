@@ -47,4 +47,12 @@ Heute habe ich hauptsächlich an meiner LB für das Modul 122 gearbeitet, da ich
 - [X] Bluefire einfügen
 - [X] Zweite Flugzeug Unterseite Einfügen
 
+Heute habe ich sehr viel an meiner Website gearbeitet. Ich habe alles geschafft, was ich mir vorgenommen habe, und ich habe sehr viel über Animationen in CSS gelernt. Ich habe auch zum ersten Mal einen Link eingebaut, welcher zu einer externen Website führt. Ich freue mich, weiter an dieser Website zu arbeiten. (52 Wörter)
+
+## 28.05.2024
+- [ ] Modul 164 Revision für Nachprüfung
+- [ ] Modul 164 Revision für Nachprüfung
+- [ ] Modul 164 Revision für Nachprüfung
+- [ ] Modul 164 Revision für Nachprüfung
+
 
