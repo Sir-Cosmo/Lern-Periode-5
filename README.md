@@ -42,7 +42,9 @@ Heute habe ich viel Fortschritt an meiner Website gemacht. Ich hatte sehr viel S
 Heute habe ich hauptsächlich an meiner LB für das Modul 122 gearbeitet, da ich dort ein Guten Skript fallen brauche. Ich habe somit leider nicht sehr viel Zeit gehabt, die Webseite fortzuführen und freue mich auf das nächste Mal wo ich dann hoffentlich lerne, wie man Animationen einfügen kann. (50 Worte)
 
 ## 21.05.2024
-- [ ] Animation für die Haubtseite
-- [ ] Video auf der Silverstar seite einfügen
-- [ ] Bluefire einfügen
-- [ ] Zweite Flugzeug Unterseite Einfügen
+- [X] Animation für die Haubtseite
+- [X] Video auf der Silverstar seite einfügen
+- [X] Bluefire einfügen
+- [X] Zweite Flugzeug Unterseite Einfügen
+
+
