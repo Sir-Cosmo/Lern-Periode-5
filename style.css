@@ -15,21 +15,7 @@ img {
     margin-right: auto;
   }
 
-  .PlanesorCoasters {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    height: 80vh;
-}
 
-.PlanesorCoasters a {
-    font-size: 50px; 
-    text-decoration: none;
-    color: #ffffff; 
-    margin-bottom: 20px; 
-    text-align: center;
-}
 
   .PlaneNames {
     display: flex;
@@ -79,3 +65,55 @@ img {
   margin-left: 125px;
   font-size: 30px;
 }
+
+.btn {
+  font-size: 2rem;
+  padding: 20px 40px; 
+  background-color: #007bff; 
+  color: #fff;
+  border: none;
+  border-radius: 8px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+  transition: all 0.3s ease; 
+}
+
+.btn:hover {
+  background-color: #0056b3; 
+  transform: translateY(-3px); 
+}
+
+.PlanesorCoasters {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.PlanesorCoasters {
+display: flex;
+gap: 10px;
+}
+
+.PlanesorCoasters button {
+padding: 15px 30px;
+font-size: 2rem;
+cursor: pointer;
+}
+
+.CoasterImage {
+  width: 600px; 
+  overflow: hidden;
+  border-radius: 10px; 
+
+  margin-bottom: 20px;
+}
+
+
+.CoasterImage img {
+  width: 100%;
+  height: auto;
+  object-fit: cover; 
+  filter: contrast(1.2) saturate(1.1); }
+
+
