@@ -58,9 +58,15 @@ Heute habe ich sehr viel an meiner Website gearbeitet. Ich habe alles geschafft,
 Ich habe an dem Heutigen Tag nur für das Modul 164 gelernt und war sehr erfolgreich.
 
 ## 10.06.2024
-- [ ] Modul 122 LB - Funktion hinzufügen damit es Automatisch Startet
-- [ ] Modul 122 LB - Funktion hinzufügen damit es Logs macht
+- [x] Modul 122 LB - Funktion hinzufügen damit es Automatisch Startet
+- [x] Modul 122 LB - Funktion hinzufügen damit es Logs macht
 - [ ] Modul 296 LB - Website Plan entwickeln
 - [ ] Modul 296 LB - Website Basics aufsetzen
 
+Heute war ich sehr fokussiert auf die LB 122, weswegen ich leider nicht zum Modul 296 gekommen bin. Ich bin trotzdem sehr zufrieden mit meiner Arbeit, da ich sehr weit gekommen bin im Modul 122. Ich hoffe, dass ich mich nächstes Mal genau so konzentrieren kann auf die LB von dem Modul 296. (53 Wörter)
 
+- [ ] Modul 296 LB - Website Plan entwickeln
+- [ ] Modul 296 LB - Website Basics aufsetzen
+- [ ] Modul 296 LB - Website weiter Aufbauen
+- [ ] Modul 296 LB - Website weiter Aufbauen ( Vermutlich Animationen einfügen
+- [ ] Modul 296 LB 
