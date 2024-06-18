@@ -71,6 +71,7 @@ Heute war ich sehr fokussiert auf die LB 122, weswegen ich leider nicht zum Modu
 
 Heute habe ich viel an der Dokumentation von der LB 122 gemacht. Ich konnte aber leider nicht alle meiner Ziele erfüllen, da der Bildschirm von meinem Laptop kaputtgegangen ist. Ich musste deswegen einen Ersatz finden, was fast 45 Minuten gedauert hat. Ich hoffe, dass ich nächstes Mal fertig werde mit dem Modul 296 damit ich am Mittwoch bei der Abgabe keinen Stress habe. (63 Wörter)
 
+## 25.06.2024
 - [ ] Modul 296 LB - Contact seite
 - [ ] Modul 296 LB - Dokumentation weiterführen
 
