@@ -65,8 +65,8 @@ Ich habe an dem Heutigen Tag nur für das Modul 164 gelernt und war sehr erfolgr
 
 Heute war ich sehr fokussiert auf die LB 122, weswegen ich leider nicht zum Modul 296 gekommen bin. Ich bin trotzdem sehr zufrieden mit meiner Arbeit, da ich sehr weit gekommen bin im Modul 122. Ich hoffe, dass ich mich nächstes Mal genau so konzentrieren kann auf die LB von dem Modul 296. (53 Wörter)
 
-- [ ] Modul 296 LB - Website Plan entwickeln
-- [ ] Modul 296 LB - Website Basics aufsetzen
-- [ ] Modul 296 LB - Website weiter Aufbauen
-- [ ] Modul 296 LB - Website weiter Aufbauen ( Vermutlich Animationen einfügen
-- [ ] Modul 296 LB 
+- [ ] Modul 122 LB - Autostart hinzufügen
+- [ ] Modul 122 LB - Dokumentation starten
+- [ ] Modul 296 LB - Contact seite hinzufügen
+
+  
