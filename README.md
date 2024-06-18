@@ -66,7 +66,12 @@ Ich habe an dem Heutigen Tag nur für das Modul 164 gelernt und war sehr erfolgr
 Heute war ich sehr fokussiert auf die LB 122, weswegen ich leider nicht zum Modul 296 gekommen bin. Ich bin trotzdem sehr zufrieden mit meiner Arbeit, da ich sehr weit gekommen bin im Modul 122. Ich hoffe, dass ich mich nächstes Mal genau so konzentrieren kann auf die LB von dem Modul 296. (53 Wörter)
 
 - [X] Modul 122 LB - Autostart hinzufügen
-- [ ] Modul 122 LB - Dokumentation starten
+- [X] Modul 122 LB - Dokumentation starten
 - [ ] Modul 296 LB - Contact seite hinzufügen
+
+Heute habe ich viel an der Dokumentation von der LB 122 gemacht. Ich konnte aber leider nicht alle meiner Ziele erfüllen, da der Bildschirm von meinem Laptop kaputtgegangen ist. Ich musste deswegen einen Ersatz finden, was fast 45 Minuten gedauert hat. Ich hoffe, dass ich nächstes Mal fertig werde mit dem Modul 296 damit ich am Mittwoch bei der Abgabe keinen Stress habe. (63 Wörter)
+
+- [ ] Modul 296 LB - Contact seite
+- [ ] Modul 296 LB - Dokumentation weiterführen
 
   
