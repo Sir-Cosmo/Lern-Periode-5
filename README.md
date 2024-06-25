@@ -72,7 +72,38 @@ Heute war ich sehr fokussiert auf die LB 122, weswegen ich leider nicht zum Modu
 Heute habe ich viel an der Dokumentation von der LB 122 gemacht. Ich konnte aber leider nicht alle meiner Ziele erfüllen, da der Bildschirm von meinem Laptop kaputtgegangen ist. Ich musste deswegen einen Ersatz finden, was fast 45 Minuten gedauert hat. Ich hoffe, dass ich nächstes Mal fertig werde mit dem Modul 296 damit ich am Mittwoch bei der Abgabe keinen Stress habe. (63 Wörter)
 
 ## 25.06.2024
-- [ ] Modul 296 LB - Contact seite
-- [ ] Modul 296 LB - Dokumentation weiterführen
+- [X] Modul 296 LB - Contact seite
+- [X] Modul 296 LB - Dokumentation weiterführen
+
+Heute habe ich die Letzten Arbeiten am Code der Website fertiggestellt und die Dokumentation weiter geführt. Ich muss jetzt noch einen Portfolio beitrag schreiben welchen ich heute Nachmittag mache.
+
+## Fertiges Projekt
+![image](https://github.com/Sir-Cosmo/Lern-Periode-5/assets/142885553/ad6e18d3-833d-4b42-898e-9fbc331aef9a)
+
+![image](https://github.com/Sir-Cosmo/Lern-Periode-5/assets/142885553/d3445a33-3a84-4ee9-ba2a-cc3fc6253e5b
+
+Meine Website hat ein Hintergrundvideo, das sofort ins Auge fällt. Das Menü ist einfach zu benutzen und passt sich an verschiedene Bildschirmgrößen an, egal ob Handy oder Computer. Wenn man mit der Maus über die Menüpunkte fährt, gibt es coole Effekte. Die Seite ist übersichtlich und leicht zu navigieren, sodass man schnell findet, was man sucht. (53 Wörter)
+
+## Zusammenfassung
+Vom 23. April bis 25. Juni 2024 habe ich intensiv an meiner Website über Airbus-Flugzeuge gearbeitet, mit HTML und CSS. Ich begann mit einfachen Webseiten und fügte nach und nach mehr Inhalte und Animationen hinzu. Ich lernte Visual Studio Code und HTML kennen, erstellte Flugzeug-Unterseiten und baute Animationen und Videos ein. Nebenbei arbeitete ich an den Modulen 122 und 164, wobei ich Funktionen und Dokumentationen entwickelte. Trotz technischer Probleme erreichte ich alle meine Ziele und beendete die Website mit einem ansprechenden Design und einem benutzerfreundlichen Menü. Ich freue mich auf die nächste LP periode. (96 Wörter)
+
+
+## LA-Reflexion
+# 1. Was habe ich konkret gelernt dieses Jahr? (Technisch)
+Dieses Jahr habe ich umfangreiche Kenntnisse in HTML und CSS erworben. Ich lernte, wie man Webseiten strukturiert, Inhalte einfügt und ansprechende Animationen erstellt. Außerdem habe ich gelernt, wie man mit Visual Studio Code effizient arbeitet.
+
+# 2. Was habe ich konkret gelernt dieses Jahr? (Arbeitsweise)
+Ich habe gelernt, meine Arbeitszeit besser zu organisieren und Prioritäten zu setzen. Durch die Arbeit an mehreren Projekten gleichzeitig habe ich meine Fähigkeiten im Zeitmanagement und in der Selbstdisziplin verbessert.
+
+# 3. Was möchte ich selber nächstes Jahr anders machen im LA?
+Nächstes Jahr möchte ich mehr Zeit für die Planung meiner Projekte einräumen, um eine klarere Struktur und bessere Zeitverteilung zu gewährleisten. Außerdem möchte ich verstärkt auf Teamarbeit setzen, um von den Fähigkeiten meiner Mitschüler zu profitieren.
+
+# 4. Was hat mir am LA gefallen?
+Am LA hat mir besonders die praktische Anwendung des Gelernten gefallen. Die Möglichkeit, eigene Projekte zu realisieren und dabei neue Technologien auszuprobieren, war sehr motivierend. 
+
+# 5. Was würde ich mir wünschen, das nächstes Jahr im LA anders wäre?
+Ich würde mir wünschen, dass wir Online / Präsens in einem Fixen Ablauf hätten, wir PPL - OPL - DSL - PPL ...
+
+
 
   
